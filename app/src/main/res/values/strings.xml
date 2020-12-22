@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello its a Game fragment</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="try_again">Try Again!</string>
+    <string name="title_android_trivia_question">Android Trivia</string>
+</resources>
